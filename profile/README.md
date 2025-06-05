@@ -3,9 +3,9 @@
 ## Ilamparithi Murali (Roll No. 107124046)
 
 ## Selected Tasks:
-- [(Basic) Computer Networking](https://github.com/spider-107124046-1/basic_computer-networking)
-- [(Basic) Cybersecurity](https://github.com/spider-107124046-1/basic_cybersecurity)
-- [(Basic) Devops](https://github.com/spider-107124046-1/basic_devops)
+- (Basic) [Computer Networking](https://github.com/spider-107124046-1/basic_computer-networking)
+- (Basic) [Cybersecurity](https://github.com/spider-107124046-1/basic_cybersecurity)
+- (Basic) [Devops](https://github.com/spider-107124046-1/basic_devops)
 - **(Domain Specific):** [DevOps](https://github.com/spider-107124046-1/main_devops)
 
 ### [Cybersecurity - Dorking with Google](https://github.com/spider-107124046-1/basic_cybersecurity/blob/main/README.md)
